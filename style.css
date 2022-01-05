@@ -1,0 +1,132 @@
+body {
+    font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Spline Sans', sans-serif;
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+.header-section {
+    display: flex;
+
+}
+
+.half-heading {
+    width: 50%;
+    text-decoration: justify;
+    padding: 70px;
+    margin: 20px;
+}
+
+.half-heading img {
+    width: 70%;
+}
+
+.heading-text {
+    font-size: 35px;
+    font-weight: bold;
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, red, green);
+    border-image-slice: 1;
+    padding-left: 5px;
+
+
+}
+
+#text {
+    color: rgb(248, 183, 6);
+}
+
+.button {
+    background-color: rgb(238, 67, 5);
+    border-style: none;
+    height: 35px;
+    width: 120px;
+    font-size: 15px;
+    border-radius: 5px;
+    color: white;
+}
+
+.middle-text {
+    text-align: center;
+    font-size: 35px;
+    width: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.font {
+    color: rgb(243, 154, 10);
+}
+
+.middle {
+    display: flex;
+    margin-left: 7%;
+    margin-right: 10%;
+    margin-bottom: 40px;
+    margin-top: 20px;
+
+}
+
+.half-middle {
+    width: 45%;
+    border: 1px solid whitesmoke;
+    padding-top: 70px;
+    padding-left: 25px;
+    margin-left: 25px;
+    text-align: justify;
+    padding-bottom: 35px;
+    padding-right: 5px;
+    border-radius: 25px;
+
+}
+
+.half-middle img {
+    width: 95px
+}
+
+.half-background {
+    background-color: #fdeded;
+}
+
+.half-two-background {
+    background-color: #fff4d8;
+}
+
+.half-one-background {
+    background-color: rgb(255, 250, 250);
+}
+
+.mid-middle {
+    display: flex;
+    margin: 25px;
+    margin-top: 50px;
+}
+
+.half-mid-middle {
+    width: 50%;
+    padding-right: 20px;
+    text-align: justify;
+}
+
+.half-mid-middle img {
+    margin-left: 90px;
+    width: 400px;
+    border: 1px solid grey;
+    border-radius: 20px;
+}
+
+#mid-text {
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 35px;
+}
+
+.mid-button {
+    background-color: rgb(238, 67, 5);
+    border-style: none;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 15px;
+    color: white;
+    margin-top: 15px;
+}
