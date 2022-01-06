@@ -37,15 +37,13 @@ body {
     color: rgb(248, 183, 6);
 }
 
-.button {
+/* .button {
     background-color: rgb(238, 67, 5);
     border-style: none;
-    height: 35px;
-    width: 120px;
-    font-size: 15px;
+    padding: 15px;
     border-radius: 5px;
     color: white;
-}
+} */
 
 .middle-text {
     text-align: center;
@@ -72,7 +70,7 @@ body {
     border: 1px solid whitesmoke;
     padding-top: 70px;
     padding-left: 25px;
-    margin-left: 25px;
+    margin-left: 30px;
     text-align: justify;
     padding-bottom: 35px;
     padding-right: 5px;
@@ -129,4 +127,34 @@ body {
     padding: 15px;
     color: white;
     margin-top: 15px;
+}
+
+
+.half-padding {
+    margin-left: 70px;
+    margin-right: 25px;
+    margin-top: 85px;
+}
+
+.mid-padding {
+    margin-right: 55px;
+}
+
+.end-section {
+    width: 50%;
+    margin-left: 50px;
+}
+
+.end-section img {
+    width: 60%;
+    border-radius: 20px;
+}
+
+footer {
+    margin-top: 40px;
+    text-align: center;
+    padding-bottom: 35px;
+    padding-top: 20px;
+    background-color: black;
+    color: whitesmoke;
 }
